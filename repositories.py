@@ -75,7 +75,7 @@ GROUP_REPOS = [
     "name": "devops-gruppe-2",
     "gitLinks": ["https://github.com/devops-gruppe-2/search-engine"],
     "backend": "http://20.250.11.23:8080/api/",
-    "frontend": "http://20.250.11.23:8080/register",
+    "frontend": "http://20.250.11.23:8080/",
     "monitoring": "",
     "stack": [],
     "documentation": [],
