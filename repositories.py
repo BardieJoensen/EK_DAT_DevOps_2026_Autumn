@@ -44,11 +44,17 @@ GROUP_REPOS = [
     {
     "name": "JakobMagnusBardie",
     "gitLinks": ["https://github.com/JacobMagnusBardie/WhoKnowsWho"],
-    "backend": "",
-    "frontend": "",
+    "backend": "http://20.100.207.69:8080/api",
+    "frontend": "http://20.100.207.69:8080/",
     "monitoring": "",
-    "stack": [],
-    "documentation": [],
+    "stack": [
+        "Go", 
+        "Go Standard Libary", 
+        "SQLite3"
+        ],
+    "documentation": [
+        "https://github.com/JacobMagnusBardie/WhoKnowsWho/blob/dev/backend/API-specs/swagger.json"
+        ],
     "sla": "",
 },
     {
