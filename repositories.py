@@ -60,7 +60,7 @@ GROUP_REPOS = [
     {
         "name": "GenZM0nks",
         "gitLinks": ["https://github.com/GenZM0nks/AscendingMonk"],
-        "backend": "http://20.251.205.81:8080/api/",
+        "backend": "http://20.251.205.81:8080/",
         "frontend": "http://20.251.205.81:8080/",
         "monitoring": "",
         "stack": ["Go", "Go Standard Library", "sqlite3" "swag", "revive"],
