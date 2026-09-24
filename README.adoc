@@ -278,48 +278,48 @@ Is familiar with different branching strategies.
 | 5
 | Sept. 18
 a|
-Introduction
+// Introduction
 
-Build tools
+// Build tools
 
-Packaging
+// Packaging
 
-Virtualization / Containerization
+// Virtualization / Containerization
 
-Docker
+// Docker
 
-Dockerfile
+// Dockerfile
 
-// link:00._Course_Material/05._Docker_The_Simulation/02._Slides/01._introduction.md[Introduction]
+link:00._Course_Material/05._Docker_The_Simulation/02._Slides/01._introduction.md[Introduction]
 
-// link:00._Course_Material/05._Docker_The_Simulation/02._Slides/02._build_tools.md[Build tools]
+link:00._Course_Material/05._Docker_The_Simulation/02._Slides/02._build_tools.md[Build tools]
 
-// link:00._Course_Material/05._Docker_The_Simulation/02._Slides/03._packaging.md[Packaging]
+link:00._Course_Material/05._Docker_The_Simulation/02._Slides/03._packaging.md[Packaging]
 
-// link:00._Course_Material/05._Docker_The_Simulation/02._Slides/04._virtualization_containerization.md[Virtualization / Containerization]
+link:00._Course_Material/05._Docker_The_Simulation/02._Slides/04._virtualization_containerization.md[Virtualization / Containerization]
 
-// link:00._Course_Material/05._Docker_The_Simulation/02._Slides/05._docker.md[Docker]
+link:00._Course_Material/05._Docker_The_Simulation/02._Slides/05._docker.md[Docker]
 
-// link:00._Course_Material/05._Docker_The_Simulation/02._Slides/06._dockerfile.md[Dockerfile]
+link:00._Course_Material/05._Docker_The_Simulation/02._Slides/06._dockerfile.md[Dockerfile]
 
 a|
 link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/01._Before/refresh_docker_knowledge.md[Refresh Docker knowledge]
 
 link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/01._Before/the_simulation.md[The Simulation]
 a|
-// link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/setup_postman_monitoring.md[Setup Postman Monitoring]
+link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/setup_postman_monitoring.md[Setup Postman Monitoring]
 
-// link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/docker_from_scratch.md[Docker from scratch]
+link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/docker_from_scratch.md[Docker from scratch]
 
-// link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/begin_dockerization.md[Begin Dockerization]
+link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/begin_dockerization.md[Begin Dockerization]
 a|
-// Understands different levels of build tools from OS to language-specific ones.
+Understands different levels of build tools from OS to language-specific ones.
 
-// Understands the difference between packaging and virtualization / containerization.
+Understands the difference between packaging and virtualization / containerization.
 
-// Understands how Docker differs from its predecessors and modern alternatives.
+Understands how Docker differs from its predecessors and modern alternatives.
 
-// Can understand simple Dockerfiles for different languages.
+Can understand simple Dockerfiles for different languages.
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
