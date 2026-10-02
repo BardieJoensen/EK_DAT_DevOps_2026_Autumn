@@ -309,7 +309,7 @@ link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/set
 
 link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/docker_from_scratch.md[Docker from scratch]
 
-link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/begin_dockerization.md[Begin Dockerization]
+link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/dockerize_now.md[Dockerize Now!]
 a|
 Understands different levels of build tools from OS to language-specific ones.
 
