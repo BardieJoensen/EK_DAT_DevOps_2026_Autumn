@@ -357,8 +357,6 @@ link:00._Course_Material/06._Docker_compose_Continuous_Delivery_DevOps/02._Slide
 a|
 link:00._Course_Material/06._Docker_compose_Continuous_Delivery_DevOps/01._Assignments/01._Before/100+_docker_concepts_you_need_to_know.md[100+ docker concepts you need to know]
 
-link:00._Course_Material/06._Docker_compose_Continuous_Delivery_DevOps/01._Assignments/01._Before/generate_cr_pat.md[Generate CR_PAT]
-
 link:00._Course_Material/06._Docker_compose_Continuous_Delivery_DevOps/01._Assignments/01._Before/read_devops_literature_I.md[Read DevOps Literature I]
 
 link:00._Course_Material/06._Docker_compose_Continuous_Delivery_DevOps/01._Assignments/01._Before/refresh_docker_compose.md[Refresh Docker Compose]
