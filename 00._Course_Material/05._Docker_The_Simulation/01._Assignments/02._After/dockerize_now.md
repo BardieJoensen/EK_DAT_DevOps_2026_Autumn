@@ -6,7 +6,7 @@ Dockerize backend / frontend.
 
 ---
 
-## Commense Dockerization
+## Commence Dockerization
 
 Dockerize the server of your choosing. Next week you will build upon this task with `Docker compose`.
 
