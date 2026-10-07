@@ -53,7 +53,7 @@ GROUP_REPOS = [
         "SQLite3"
         ],
     "documentation": [
-        "https://github.com/JacobMagnusBardie/WhoKnowsWho/blob/dev/backend/API-specs/swagger.json"
+        "https://github.com/JacobMagnusBardie/WhoKnowsWho/blob/main/backend/docs/swagger.json"
         ],
     "sla": "",
 },
